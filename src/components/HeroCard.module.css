@@ -1,0 +1,37 @@
+.heroCard {
+  height: 300px;
+  width: 300px;
+  background-color: #424242; 
+  border-radius: 10px;
+  margin: 10px;
+  overflow: hidden;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  color: white; 
+}
+
+.heroImage {
+  border-radius: 10px 10px 0 0;
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+}
+
+.heroName {
+  text-align: center;
+  font-size: 1.5em;
+  margin: 10px 0;
+}
+
+.heroStat {
+  padding: 0 10px;
+  width: calc(100% - 20px);
+  display: flex;
+  align-items: center;
+}
+
+.heroStatBar {
+  height: 10px;
+  display: block;
+  margin-top: 5px;
+  border-radius: 5px;
+}
