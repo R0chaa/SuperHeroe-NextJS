@@ -1,0 +1,23 @@
+.buttonLoadMore {
+  background-color: #731d1b;
+  height: 40px;
+  width: 150px;
+  color: white;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 20px auto;
+  display: block;
+  transition: background-color 0.3s ease;
+}
+
+.buttonLoadMore:hover {
+  background-color: rgb(126, 13, 13); 
+}
+
+.container {
+  padding-bottom: 40px;
+  background-color: #212121; 
+  min-height: 100vh;
+}
