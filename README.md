@@ -80,7 +80,7 @@ Contribuições são bem-vindas! Se você quiser melhorar o projeto, siga as eta
 
 ## Grupo 📬
 
-- Lucas Rocha
-- Luiz Saraiva
-- Leonardo Pinheiro
-- Fábio Sabino
+- Lucas Rocha - 10391076
+- Luiz Saraiva - 10374379
+- Leonardo Pinheiro - 10388961
+- Fábio Sabino - 10277530
